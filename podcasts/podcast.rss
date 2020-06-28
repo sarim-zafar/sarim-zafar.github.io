@@ -3,7 +3,7 @@
    xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SS Rambling</title>
-    <link>http://sarim-zafar.github.io/podcasts/</link>
+    <link>https://sarim-zafar.github.io/podcasts/</link>
     <language>en-us</language>
     <copyright>&#169; 2020 Sarim Zafar</copyright>
     <itunes:author>Sarim and Sachal</itunes:author>
@@ -16,7 +16,7 @@
       <itunes:email>sarim.zafar71@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image
-      href="http://sarim-zafar.github.io/podcasts/images/first.png"
+      href="https://sarim-zafar.github.io/podcasts/images/first.png"
     />
     <itunes:category text="Random">
       <itunes:category text="Chopsticks"/>
@@ -32,7 +32,7 @@
       <enclosure
         length="07:04"
         type="audio/mpeg"
-        url="http://sarim-zafar.github.io/podcasts/audio/first.mp3"
+        url="https://sarim-zafar.github.io/podcasts/audio/first.mp3"
       />
       <guid>ss2020chopsticks</guid>
       <pubDate>Sun, 28 Jun 2020 12:00:00 GMT</pubDate>
